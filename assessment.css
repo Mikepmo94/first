@@ -1,0 +1,152 @@
+body{
+    background-color: aliceblue;
+}
+*{
+    margin: 10px;
+    padding:0px;
+    box-sizing: border-box;
+
+}
+h2{
+    color: rgb(168, 0, 0)
+}
+.heading{
+    height: 20vh;
+    display: flex;
+    justify-content: space-between;
+}
+.logo{
+   height: 25px;
+   width: 25px;
+   
+}
+.navi{
+    font-family: 'Lucida Sans Regular';
+    font-size: 12px;
+    
+}
+a:hover{
+    color: black;
+}
+.section2{
+    margin: 15px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.script{
+    
+    display: flex;
+    border-bottom: 1px solid #000;
+}
+.profpic{
+    justify-content: baseline;
+}
+p {
+    font-family: Verdana;
+    color: gray
+
+}    
+.bio{
+    flex-direction: column;
+}
+
+.ptwo{
+    font-family: Arial;
+    color: black;
+}
+
+.skills{
+    display: flex;
+    border-bottom: 1px solid #000;
+}
+
+.rating {
+    border: 1px solid grey;
+    display: flex;
+}
+
+.rate{
+    height: 200px;
+    width: 300px;
+    border: 2px solid grey;
+    margin: 1px;
+}
+
+.rate2{
+    height: 200px;
+    width: 300px;
+    border: 2px solid grey;
+    margin: 1px;
+}
+
+.hip {
+    display: flex;
+    align-items: center;
+    gap: 50px;
+}
+
+.rb {
+    display: flex;
+    align-items: center;
+    gap: 81px;
+}
+
+.pp {
+    display: flex;
+    align-items: center;
+    gap: 85px;
+}
+
+.cc {
+    display: flex;
+    align-items: center;
+    gap: 50px;
+}
+
+.ap {
+    display: flex;
+    align-items: center;
+    gap: 50px;
+}
+
+.mt {
+    display: flex;
+    align-items: center;
+    gap: 76px;
+}
+
+.hs {
+    display: flex;
+    align-items: center;
+    gap: 71px;
+}
+
+.rt {
+    display: flex;
+    align-items: center;
+    gap: 35px;
+}
+
+.fg{
+
+    margin: 65px 0 65px 250px;
+
+}
+
+.if{
+    border-radius: 10px;
+    background-color: rgb(255, 220, 220);    width: 200px;
+    height: 23px;
+    width: 250px;
+    border: none;
+}
+
+.sb{
+    background-color: gray;
+    color: rgb(168, 0, 0);
+    display: flex;
+}
+
+.ht{
+    color: grey;
+}

@@ -1,0 +1,37 @@
+h1,h2{
+    font-size: 500%;
+    color:green;
+}
+p {
+    font-weight: bold;
+    color:blue;
+    font-size: 200%;
+}
+a:hover{
+    color: darkred
+}
+.example{
+    color: chartreuse
+}
+h1{
+    font-family: 'Courier New';
+    font-size: 60px;
+    font-weight: bold;
+    text-align: center;
+    color: firebrick;
+    background-color: pink;
+    color: green !important
+}
+.overlay{
+    opacity: .5;
+}
+p{
+    height: 80px;
+    width: 240px;
+    border: 3px solid black;
+    border-radius: 50px;
+    padding: 100px;
+    padding: 10px 12px 42px 42px;
+    margin: 20px;
+    overflow: scroll;
+}
